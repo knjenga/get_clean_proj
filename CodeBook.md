@@ -1,5 +1,5 @@
 DATA DICTIONARY : Summary Data from Human Activity Recongntion Using Smartphones.
-==================================================================================
+
 Subject_ID 
 	Unique Number assinged to each of the 30 particpants in the study
  	Values : 1 to 30
@@ -17,7 +17,7 @@ Subject_ID
 		STANDING
 		LAYING
 	Data Type : Text
-==================================================================================
+
 For each Subject and Activity several feature variables were collected and summarized, bellow is a list of the measurments.  For each feature three values were recordred by the study along the X, Y and Z axis. The data set has the mean and standard devation of each featrure measruemnts along the X,Y and Z axis. 
 Feature Columns Name Key:
 	 A columns with "mean()" - Is a mean value for the feature along the the axis
